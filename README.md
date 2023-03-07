@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ## README
 
 The task was to create the four plots given in the *figure* folder using
